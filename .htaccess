@@ -7,22 +7,6 @@
   RewriteRule ^images/ - [L]
   RewriteRule ^icons/ - [L]
   RewriteRule ^~kgaurav/ - [L]
-
-  RewriteRule ^index\.html$ /~kgaurav/index.html [L]
-  RewriteRule ^book-chapters\.html$ /~kgaurav/book-chapters.html [L]
-  RewriteRule ^alumni\.html$ /~kgaurav/alumni.html [L]
-  RewriteRule ^conferences\.html$ /~kgaurav/conferences.html [L]
-  RewriteRule ^contact\.html$ /~kgaurav/contact.html [L]
-  RewriteRule ^dr_kumar_gaurav\.html$ /~kgaurav/dr_kumar_gaurav.html [L]
-  RewriteRule ^gallery\.html$ /~kgaurav/gallery.html [L]
-  RewriteRule ^instruments\.html$ /~kgaurav/instruments.html [L]
-  RewriteRule ^member_details\.html$ /~kgaurav/member_details.html [L]
-  RewriteRule ^members\.html$ /~kgaurav/members.html [L]
-  RewriteRule ^observatory\.html$ /~kgaurav/observatory.html [L]
-  RewriteRule ^opportunities\.html$ /~kgaurav/opportunities.html [L]
-  RewriteRule ^projects\.html$ /~kgaurav/projects.html [L]
-  RewriteRule ^publications\.html$ /~kgaurav/publications.html [L]
-  RewriteRule ^updates\.html$ /~kgaurav/updates.html [L]
   
   RewriteRule ^.*$ /~kgaurav/index.html [L]
 </IfModule>
